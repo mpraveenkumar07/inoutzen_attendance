@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="100%" height="100%">
+  <!-- Icon Mark -->
+  <g transform="translate(40, 20)">
+    <!-- Top Dot -->
+    <circle cx="35" cy="22" r="18" fill="#020203" />
+    <!-- Triangle Accent -->
+    <path d="M 17 50 L 53 50 L 53 72 Z" fill="#055CE8" />
+    <!-- Pill Base -->
+    <path d="M 17 80 L 53 80 L 53 125 C 53 136 45 145 35 145 C 25 145 17 136 17 125 Z" fill="#055CE8" />
+  </g>
+  
+  <!-- Text Brand -->
+  <g transform="translate(135, 30)">
+    <!-- INOUTZEN. -->
+    <text x="0" y="80" font-family="'Outfit', 'Arial Black', sans-serif" font-weight="900" font-style="italic" font-size="64" letter-spacing="0">
+      <tspan fill="#055CE8">INOUT</tspan><tspan fill="#020203">ZEN.</tspan>
+    </text>
+    
+    <!-- Tagline -->
+    <text x="0" y="115" font-family="'Inter', sans-serif" font-weight="700" font-style="italic" font-size="20" letter-spacing="-0.5">
+      <tspan fill="#055CE8">Digital. Design. </tspan><tspan fill="#020203">Develop. Delivery.</tspan>
+    </text>
+  </g>
+</svg>
